@@ -1,0 +1,19 @@
+sai pavan naresh
+
+golang demo
+
+
+interfaces
+
+structures - it is a structure compressed of different data types.
+like example    type person struct{
+                name string
+		age int
+		address string
+		salary int
+		}
+
+arrays - array is data structure to store continuous homogenous data of same data type
+
+var a[5] int
+a:=[5]int{10,202,203,40,50}
