@@ -17,3 +17,7 @@ arrays - array is data structure to store continuous homogenous data of same dat
 
 var a[5] int
 a:=[5]int{10,202,203,40,50}
+
+slices - slice are the dynamic data structure without a fixed size same like a array with homogenous data
+var a[] string
+a:=[]string["ab","de","fg"]
